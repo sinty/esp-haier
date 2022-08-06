@@ -1,4 +1,12 @@
- # ESP Haier
+# FORK!!!
+
+
+
+
+
+
+
+# ESP Haier
  
 
  ESP Haier is a project to use a ESP8266 (I did not test with ESP32) to control Haier Air Conditioner (firmware version R_1.0.00/e_2.5.14) with wifi module supoort with ESPHome and Home Assisant.
